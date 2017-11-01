@@ -1,0 +1,20 @@
+{
+    "name": "root/zombie2",
+
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/",
+            "Tests\\": "tests/"
+        }
+    },
+
+    "require": {
+        "phpunit/phpunit": "^6.4"
+    },
+    "authors": [
+        {
+            "name": "FidèleGastro",
+            "email": "gomes.raphael.31@gmail.com"
+        }
+    ]
+}
